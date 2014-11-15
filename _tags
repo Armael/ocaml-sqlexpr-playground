@@ -1,0 +1,1 @@
+true: syntax(camlp4o), package(sqlexpr.syntax), package(sqlexpr), thread
